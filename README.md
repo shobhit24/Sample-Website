@@ -1,2 +1,3 @@
 # Sample-Website
-HTML &amp; CSS practice
+HTML and CSS practice 
+This is created as a sample website for practice of HTML and CSS
